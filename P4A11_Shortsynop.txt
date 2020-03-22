@@ -12,7 +12,7 @@ There are two sides to our System
 
 User Side:
 Only registered users can use the website.
--> They can login to their account and see their personal information and modify it.
+->They can login to their account and see their personal information and modify it.
 ->They can check for the availabilty of a book by searching its name.
 ->They can easily request for a new book not in the library
 ->They can see the issued and return date of books 
